@@ -1,0 +1,2 @@
+# OpenCore-Z490M-i9-10700K-eGPU
+OpenCore 0.6.4 Gigabyte Z490M i9-10900K with eGPU RADEON RX 5700 RX
